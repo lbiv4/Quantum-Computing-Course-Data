@@ -1,113 +1,113 @@
-ID	School	State	Level	Departments	Special   Topic	Link(s)	
-1	Amherst College	MA	UG	PHYS	No	PHYS 373	
-2	Bates College	ME	UG	PHYS	No	PHYS 309	
-3	Boston University	MA	GR	PHYS, CS	No	CAS 536	
-4	Brooklyn College	NY	GR	CS	No	CISC 7228	
-5	Cal Tech	CA	GR	CS, PHYS	No	PH/CS219	
-6	University of California, Santa Barbara	CA	UG	CS, OTHER	Yes, No	CS292F	CS 10?
-7	Captiol Technology University	MD	PhD	CS	No	Curriculm	
-8	Carleton College	MN	UG	CS	No	CS 358	
-9	Carnegie Mellon University	PA	UG, GR	PHYS, CS	No	33-658/33-758, 15-459	
-10	Clark University	MA	UG	CS	Yes	CS201	
-11	Clarkson University	NY	UG, GR	CS, MATH	No	CS/MA 469, CS 569	
-12	Colorado School of Mines	CO	UG, GR	PHYS, CS	Yes, No	PHGN519, CSCI591	
-13	Columbia University	NY	UG, GR	CS	Yes, No	COMS W4281	
-14	Cornell University	NY	UG, GR	CS, PHYS	No	PHYS4481/CS4812, PHYS 7681	
-15	Dartmouth College	NH	UG, GR	PHYS	No	PHYS 75	PHYS 116
-16	University of California, Davis	CA	GR	ENG	Yes	EEC289L	
-17	Duke University	NC	GR	ENG	Yes, No	Numerous offerings, notably ECE 523	
-18	Emory University (Special Topic)	GA	GR	CS, PHYS	Yes	CS584	
-19	George Mason University	VA	UG, GR	PHYS	No	PHYS 334/534	
-20	Georgia Tech	GA	UG, GR	PHYS, MATH, ENG	Yes, No	MATH/PHYS4782	
-21	Harrisburg University of Science and Technology	PA	GR	Other	No	Multiple offerings	
-22	Harvard	MA	UG, GR	PHYS, CS, ENG	No	Multiple Offerings at MIT	
-23	Harvey Mudd College	CA	UG	PHYS	No	PHYSICS 84	
-24	Indiana University – Bloomington	IN	UG, GR	PHYS, MATH	No	P455/P555	
-25	Iowa State University	IA	UG, GR	PHYS	Yes	Physics 422/522	
-26	John Hopkins University	MD	GR	PHYS	No	605.728	615.781
-27	Lehman College, CUNY	NY	UG	PHYS, CS	No	CMP 320	
-28	Louisiana State University	LA	GR	PHYS	No	PHYS 7347/7348	
-29	Mercer University	GA	UG	PHYS	No	CS 323, previous special topic	
-30	Middlebury College	VT	UG	CS	No	CSCI 0333	
-31	Massachusetts Institute of Technology	MA	UG, GR	PHYS, CS, ENG, MATH	No	Multiple Offerings	
-32	Naval Post-Graduate School	CA	GR	PHYS, CS	No	PH4670	
-33	New Mexico State University	NM	UG	CS	Yes	CS 479 M04 - see Spring 2020	
-34	New York City College of Technology	NY	UG	PHYS	No	PHYS 2609	
-35	New York University	NY	GR	CS	No	CSCI-GA 3033-​022	
-36	North Carolina State University	NC	GR	CS, ENG	Yes	CSC 591	
-37	Northwestern University	IL	UG	ENG	Yes	ELEC_ENG 395	ELEC_ENG 429
-38	Oklahoma State University	OK	GR	CS	No	CS 5263	
-39	Pace University	NY	GR	CS	No	CS 737	
-40	Portland State University	OR	UG, GR	CS	Yes	CS 410/510	
-41	Princeton University	NJ	UG, GR	ENG, CS	No	ELE 396	ELE 568
-42	Purdue University	IN	GR	PHYS	No	PHYS 52600	
-43	Purdue University – Fort Wayne	IN	UG	PHYS	No	PHYS 44300	
-44	Queens College, CUNY	NY	UG	CS	Yes	CSCI 381	
-45	Reed College	OR	UG	PHYS	No	PHYS 367	
-46	Regis University	CO	UG	CS	Yes	CS 492E	
-47	Rensselaer Polytechnic Institute	NY	UG	CS	No	ECSE 4964	
-48	Rutgers University	NJ	UG	PHYS	Yes	Physics 488	01.750.488
-49	San Jose State University	CA	UG	ENG	No	EE 225	
-50	Santa Clara University	CA	UG	MATH	No	Applied Math 351	
-51	Sarah Lawrence College	NY	UG	CS	No	CS Course	
-52	South Dakota School of Mines and Technology	SD	GR	PHYS	No	PHYS 777	
-53	Southern Illinois University Carbondale	IL	GR	PHYS	Yes	PHYS 575	
-54	Southern Methodist University	TX	GR	CS	No	CSE 8381	
-55	Stanford University	CA	UG, GR	CS, ENG	No	CME 250Q, CS 259Q, CS 269Q	
-56	Stony Brook University	NY	GR	PHYS, CS	No	PHYS 680	DCS 501
-57	Stevens Institute of Technology	NJ	GR	PHYS, MATH	No	PEP 557 and MA 565	
-58	Syracuse University	NY	UG, GR	CS, PHYS	No	CIS 678	PHYS 300, PHYS 500
-59	Temple University	PA	GR	PHYS	No	PHYS 5001	
-60	Texas A&M University	TX	UG, GR	MATH, CS, PHYS, ENG	No	Get links from group	
-61	The New School (Fall '20 course)	NY	UG	Other	No	PSAM3050	
-62	Tulane University	LA	UG, GR	PHYS, ENG	No	ENGP/PHYS 3230, PHYS 6230	
-63	University of Arizona	AZ	GR	Other	No	OPTI 646	
-64	University at Albany, SUNY	NY	GR	CS	No	CSI 542 and 642	
-65	University of Bridgeport	CT	PhD	CS	No	CPSC 606	
-66	University at Buffalo	NY	UG, GR	CS, ENG	No	CSE439LEC and possibly EE520LEC	
-67	University of California, Berkeley	CA	UG	CHEM/CS/PHYS	No	Chem/CS/Phys191	
-68	University of California, Irvine	CA	GR	CS	No	COMPSCI 264	
-69	University of California, Merced	CA	UG	PHYS	No	PHYS 172	
-70	University of California, Riverside	CA	GR	PHYS, ENG	No	EE 214 and PHYS 220	
-71	University of California, Santa Cruz	CA	UG	PHY	No	Phys 150	
-72	University of Central Florida	FL	GR	CS	No	COT 5600 and 6602	
-73	University of Chicago	IL	UG, GR	CS, MATH, PHYS, END	No	Multiple Offerings - search "quantum computing"	
-74	University of Cincinnati	OH	GR	PHYS	No	PHYS 6045	
-75	University of Colorado Boulder	CO	UG	CS	No	CSCI 3090	
-76	University of Connecticut	CT	GR	CS	No	CSE 5512	
-77	University of Delaware	DE	GR	PHYS	No	PHYS 650	
-78	University of Florida	FL	GR	CS	No	CIS6930	
-79	University of Illinois at Chicago	IL	GR	CS	No	CS 506	
-80	University of Illinois at Urbana-Champaign	IL	GR	PHYS	No	PHYS 513	
-81	University of Indianapolis	IN	UG	CS	Yes	CSCI 400	
-82	University of Maryland	MD	UG,GR	CS	No	CMSC 457/657	
-83	University of Maryland, Baltimore County	MD	UG, GR	CS	No	CMSC 457/653?	
-84	University of Massachusetts Amherst	MA	GR	CS	Yes	CICS 590Q	
-85	University of Miami	FL	GR	CS	Yes	CSC 685/585	
-86	University of Michigan	MI	GR	CS/ENG	No	EECS598	
-87	University of Minnesota	MN	UG	CS	No	CSCI 4557	
-88	University of Nebraska at Omaha	NE	GR	Other	No	CYBR 8436	
-89	University of New Mexico	NM	GR	PHYS	No	PHYS 571	
-90	University of North Carolina at Chapel Hill	NC	UG	CS	No	COMP 447	
-91	University of North Carolina at Charlotte	NC	GR	Other	No	ITIS 6260/8260	
-92	University of Notre Dame	IN	UG, GR	Eng	No	EE40478	
-93	University of Oklahoma	OK	GR	Eng/Other	No	TCOM/ECE 5183	
-94	University of Pennsylvania	PA	UG	CS	No	CIS 398	
-95	University of South Carolina	SC	GR	CS	No	CSCE 790	
-96	University of South Florida	FL	UG, GR	CS	No	CIS 4930/6930	
-97	University of Tennessee	TN	UG, GR	PHYS, ENG, CS/CHEM	No	PHYS 642 / ECE 692, PHYS 494 / COSC 494 / CHEM 420	
-98	University of Texas at Austin	TX	UG	CS/MATH/PHYS, Other	No	CS/MATH/PHYS 385H	Research courses?
-99	UT-Dallas	TX	GR	MATH	No	MATH 6350	
-100	University of Rochester	NY	UG	CS	Yes	CSC 295	
-101	University of Southern California	CA	GR	PHYS, ENG	No	EE 520, PHYS 720	
-102	University of Vermont	VT	UG	PHYS	No	PHYS 196	
-103	University of Virginia	VA	GR	PHYS	No	PHYS 5880	
-104	University of Washington	WA	UG	CS	No	CSE 490Q	
-105	University of Wisconsin-Madison	WI	GR	PHYS	No	PHYS 707, 709, 779	
-106	Virginia Commonwealth University	VA	UG	CS	No	CMSC 410	
-107	Virginia Tech University	VA	UG, GR	PHYS	No	PHYS 4254/5254G	
-108	Wake Forest University	NC	UG, GR	PHYS	Yes	PHYS 391	
-109	Washington University at St. Louis	MO	UG, GR	CS	No	E81 CSE 468T	
-110	Wayne State University	MI	GR	PHYS	No	PHYS 6480	
-111	Wichita State University	KS	UG, GR	MATH, ENG	No	Multiple offerings	
-112	Widener University	PA	GR	CS	No	CSCI 331/332	
+ID	School	State	Level	Departments	Special   Topic
+1	Amherst College	MA	UG	PHYS	No
+2	Bates College	ME	UG	PHYS	No
+3	Boston University	MA	GR	PHYS, CS	No
+4	Brooklyn College	NY	GR	CS	No
+5	Cal Tech	CA	GR	CS, PHYS	No
+6	University of California, Santa Barbara	CA	UG	CS, OTHER	Yes, No
+7	Captiol Technology University	MD	PhD	CS	No
+8	Carleton College	MN	UG	CS	No
+9	Carnegie Mellon University	PA	UG, GR	PHYS, CS	No
+10	Clark University	MA	UG	CS	Yes
+11	Clarkson University	NY	UG, GR	CS, MATH	No
+12	Colorado School of Mines	CO	UG, GR	PHYS, CS	Yes, No
+13	Columbia University	NY	UG, GR	CS	Yes, No
+14	Cornell University	NY	UG, GR	CS, PHYS	No
+15	Dartmouth College	NH	UG, GR	PHYS	No
+16	University of California, Davis	CA	GR	ENG	Yes
+17	Duke University	NC	GR	ENG	Yes, No
+18	Emory University (Special Topic)	GA	GR	CS, PHYS	Yes
+19	George Mason University	VA	UG, GR	PHYS	No
+20	Georgia Tech	GA	UG, GR	PHYS, MATH, ENG	Yes, No
+21	Harrisburg University of Science and Technology	PA	GR	Other	No
+22	Harvard	MA	UG, GR	PHYS, CS, ENG	No
+23	Harvey Mudd College	CA	UG	PHYS	No
+24	Indiana University – Bloomington	IN	UG, GR	PHYS, MATH	No
+25	Iowa State University	IA	UG, GR	PHYS	Yes
+26	John Hopkins University	MD	GR	PHYS	No
+27	Lehman College, CUNY	NY	UG	PHYS, CS	No
+28	Louisiana State University	LA	GR	PHYS	No
+29	Mercer University	GA	UG	PHYS	No
+30	Middlebury College	VT	UG	CS	No
+31	Massachusetts Institute of Technology	MA	UG, GR	PHYS, CS, ENG, MATH	No
+32	Naval Post-Graduate School	CA	GR	PHYS, CS	No
+33	New Mexico State University	NM	UG	CS	Yes
+34	New York City College of Technology	NY	UG	PHYS	No
+35	New York University	NY	GR	CS	No
+36	North Carolina State University	NC	GR	CS, ENG	Yes
+37	Northwestern University	IL	UG	ENG	Yes
+38	Oklahoma State University	OK	GR	CS	No
+39	Pace University	NY	GR	CS	No
+40	Portland State University	OR	UG, GR	CS	Yes
+41	Princeton University	NJ	UG, GR	ENG, CS	No
+42	Purdue University	IN	GR	PHYS	No
+43	Purdue University – Fort Wayne	IN	UG	PHYS	No
+44	Queens College, CUNY	NY	UG	CS	Yes
+45	Reed College	OR	UG	PHYS	No
+46	Regis University	CO	UG	CS	Yes
+47	Rensselaer Polytechnic Institute	NY	UG	CS	No
+48	Rutgers University	NJ	UG	PHYS	Yes
+49	San Jose State University	CA	UG	ENG	No
+50	Santa Clara University	CA	UG	MATH	No
+51	Sarah Lawrence College	NY	UG	CS	No
+52	South Dakota School of Mines and Technology	SD	GR	PHYS	No
+53	Southern Illinois University Carbondale	IL	GR	PHYS	Yes
+54	Southern Methodist University	TX	GR	CS	No
+55	Stanford University	CA	UG, GR	CS, ENG	No
+56	Stony Brook University	NY	GR	PHYS, CS	No
+57	Stevens Institute of Technology	NJ	GR	PHYS, MATH	No
+58	Syracuse University	NY	UG, GR	CS, PHYS	No
+59	Temple University	PA	GR	PHYS	No
+60	Texas A&M University	TX	UG, GR	MATH, CS, PHYS, ENG	No
+61	The New School (Fall '20 course)	NY	UG	Other	No
+62	Tulane University	LA	UG, GR	PHYS, ENG	No
+63	University of Arizona	AZ	GR	Other	No
+64	University at Albany, SUNY	NY	GR	CS	No
+65	University of Bridgeport	CT	PhD	CS	No
+66	University at Buffalo	NY	UG, GR	CS, ENG	No
+67	University of California, Berkeley	CA	UG	CHEM/CS/PHYS	No
+68	University of California, Irvine	CA	GR	CS	No
+69	University of California, Merced	CA	UG	PHYS	No
+70	University of California, Riverside	CA	GR	PHYS, ENG	No
+71	University of California, Santa Cruz	CA	UG	PHY	No
+72	University of Central Florida	FL	GR	CS	No
+73	University of Chicago	IL	UG, GR	CS, MATH, PHYS, END	No
+74	University of Cincinnati	OH	GR	PHYS	No
+75	University of Colorado Boulder	CO	UG	CS	No
+76	University of Connecticut	CT	GR	CS	No
+77	University of Delaware	DE	GR	PHYS	No
+78	University of Florida	FL	GR	CS	No
+79	University of Illinois at Chicago	IL	GR	CS	No
+80	University of Illinois at Urbana-Champaign	IL	GR	PHYS	No
+81	University of Indianapolis	IN	UG	CS	Yes
+82	University of Maryland	MD	UG,GR	CS	No
+83	University of Maryland, Baltimore County	MD	UG, GR	CS	No
+84	University of Massachusetts Amherst	MA	GR	CS	Yes
+85	University of Miami	FL	GR	CS	Yes
+86	University of Michigan	MI	GR	CS/ENG	No
+87	University of Minnesota	MN	UG	CS	No
+88	University of Nebraska at Omaha	NE	GR	Other	No
+89	University of New Mexico	NM	GR	PHYS	No
+90	University of North Carolina at Chapel Hill	NC	UG	CS	No
+91	University of North Carolina at Charlotte	NC	GR	Other	No
+92	University of Notre Dame	IN	UG, GR	Eng	No
+93	University of Oklahoma	OK	GR	Eng/Other	No
+94	University of Pennsylvania	PA	UG	CS	No
+95	University of South Carolina	SC	GR	CS	No
+96	University of South Florida	FL	UG, GR	CS	No
+97	University of Tennessee	TN	UG, GR	PHYS, ENG, CS/CHEM	No
+98	University of Texas at Austin	TX	UG	CS/MATH/PHYS, Other	No
+99	UT-Dallas	TX	GR	MATH	No
+100	University of Rochester	NY	UG	CS	Yes
+101	University of Southern California	CA	GR	PHYS, ENG	No
+102	University of Vermont	VT	UG	PHYS	No
+103	University of Virginia	VA	GR	PHYS	No
+104	University of Washington	WA	UG	CS	No
+105	University of Wisconsin-Madison	WI	GR	PHYS	No
+106	Virginia Commonwealth University	VA	UG	CS	No
+107	Virginia Tech University	VA	UG, GR	PHYS	No
+108	Wake Forest University	NC	UG, GR	PHYS	Yes
+109	Washington University at St. Louis	MO	UG, GR	CS	No
+110	Wayne State University	MI	GR	PHYS	No
+111	Wichita State University	KS	UG, GR	MATH, ENG	No
+112	Widener University	PA	GR	CS	No
