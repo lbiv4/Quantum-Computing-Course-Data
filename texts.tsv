@@ -1,0 +1,33 @@
+ID	Author	Title	Link	Notes
+1	M. A. Nielsen and I. L. Chuang	Quantum Computation and Quantum Information		Recommended by Peter Shor: http://www-math.mit.edu/~shor/
+2	N.S. Yanofsky and M. Mannucci	Quantum Computing: A First Text for Computer Scientists		
+3	M. Hirvensalo	Quantum Computing		
+4	N.D. Mermin	Quantum Computer Science: An Introduction		Recommended by Peter Shor: http://www-math.mit.edu/~shor/
+5	M. Wilde	Quantum Information Theory		Recommended by Peter Shor: http://www-math.mit.edu/~shor/
+6	A. Asfaw et al.	Learning Quantum Computation Using QSKIT	https://qiskit.org/textbook/preface.html	
+7	P. Kaye, R. Laflamme, and M. Mosca	An Introduction to Quantum Computing		
+8	F. de Lima Marquezino, R. Portugal, and C. Lavor	A Primer on Quantum Computing		
+9	B. Zygelman	A First Introduction to Quantum Computing and Information.		
+10	E. Rieffel & W. Polak	Quantum Computing: A Gentle Introduction		
+11	V. Scarani	Six Quantum Pieces. A First Course in Quantum Physics		
+12	N.S. Yanofsky and M. Mannucci	Quantum Computing for Computer Scientists		
+13	R. Blümel	Foundations of Quantum Mechanics		
+14	R. O'Donnell	Quantum Computation and Quantum Information	https://www.cs.cmu.edu/~odonnell/quantum18/	Course notes
+15	Y. V. Nazarov and Y. M. Blanter	Quantum Transport: Introduction to Nanoscience		
+16	J. Preskill	Quantum Information and Computation	http://www.theory.caltech.edu/people/preskill/ph229/index.html#lecture	Course Notes
+17	R.J. Lipton and K.W. Regan	Quantum Algorithms via Linear Algebra: A Primer		
+18	L.N. Trefethen and D. Bau III	Numerical Linear Algebra		
+19	R. Vathsan	Introduction to Quantum Physics and Information Processing		
+20	A. Kitaev, A. Shen, and M. Vyalyi	Classical and Quantum Computation		
+21	J. D. Hidary	Quantum Computing: An Applied Approach		
+22	D. Bouwmeester, A. Ekert, and A. Zeilinger	The Physics of Quantum Information: Quantum Cryptography, Quantum Teleportation, Quantum Computation		
+23	M. Wilde	From Classical to Quantum Shannon Theory	https://arxiv.org/abs/1106.1445	
+24	J. Watrous	The Theory of Quantum Information		
+25	G. J.A. Jameson	Summing and nuclear norms in Banach spaces		
+26	G. Pisier	Factorization of Linear Operator and geometry of Banach Spaces		
+27	B. Zeng, X. Chen, D.L. Zhou, X.G. Wen	Quantum Information Meets Quantum Matter	https://arxiv.org/pdf/1508.02595.pdf	
+28	S. Aaronson	Quantum Computing since Democritus	https://www.scottaaronson.com/democritus/	
+29	R. Jozsa	Lecture Notes on QUANTUM COMPUTATION		
+30	S. A. Fenner	Quantum Computing and Information: Course Notes	https://cse.sc.edu/~fenner/csce790/notes/index.html	Course Notes
+31	B. MacLennan	Unconventional Computation	https://quantum.utk.edu/wp-content/uploads/2019/12/MacLennan-UC.pdf	Course Notes
+32	M. Fox	Quantum Optics: An Introduction		
