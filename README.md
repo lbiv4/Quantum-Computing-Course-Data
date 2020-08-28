@@ -1,4 +1,4 @@
-# Quantum-Computing-Course-Data
+# Quantum Computing Course Data
 This repository holds data on US schools and courses related to quantum computing and information. There are three TSV files holding data on different aspects. See sections below for details
 
 ## Schools
